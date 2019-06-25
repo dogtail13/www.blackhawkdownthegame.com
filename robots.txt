@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /pub/
+Disallow: /images/
+Disallow: /flash/
+Disallow: /Connections/
